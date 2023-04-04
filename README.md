@@ -1,7 +1,7 @@
 # HTML_CSS_JS_For_Web_Developers_Module2_Project_Assignment
 I've completed Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Project Assignment.
 
-link: 
+link: https://github.com/preethaadutta/HTML_CSS_JS_For_Web_Developers_Module2_Assignment.github.io.git
 
 Woo-hoo! You get to do some coding! Exciting!
 
